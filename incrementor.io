@@ -1,3 +1,4 @@
+#! /usr/bin/env io
 x := 1
 incrementor := 2
 writeln("x is ", x)
